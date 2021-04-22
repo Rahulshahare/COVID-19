@@ -1,4 +1,4 @@
-STCode     DTCode     SDCode     TownVillgCode    TownVillgName  (Lang = EN_US)      
+STCode,     DTCode,     SDCode,     TownVillgCode,    TownVillgName  (Lang = EN_US)      
 01         000        00000      000000           JAMMU & KASHMIR                    
 01         000        00000      800013           Srinagar (M Corp. + OG)            
 01         000        00000      800033           Anantnag (M Cl + OG)               
